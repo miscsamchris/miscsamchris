@@ -1,8 +1,6 @@
 ### Hi there 👋
 Python
 Java
-<!--START_SECTION:wordcloud-->
-<!--END_SECTION:wordcloud-->
 <!--
 **miscsamchris/miscsamchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
