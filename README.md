@@ -1,6 +1,6 @@
 ### Hi there 👋
-Python
-Java
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=miscsamchris)](https://github.com/miscsamchris/github-readme-stats)
+
 <!--
 **miscsamchris/miscsamchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
