@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=miscsamchris&show_icons=true&theme=dark)](https://github.com/miscsamchris/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=miscsamchris&theme=onedark)](https://github.com/miscsamchris/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=miscsamchris&theme=onedark&rank=S,AAA)](https://github.com/miscsamchris/github-profile-trophy)
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31627fkrkwhfdajsct2lfkn4lyse)](https://open.spotify.com/user/31627fkrkwhfdajsct2lfkn4lyse)
 
