@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miscsamchris&theme=tokyo-night" />
+
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=miscsamchris&show_icons=true&theme=dark)](https://github.com/miscsamchris/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=miscsamchris&theme=onedark)](https://github.com/miscsamchris/github-profile-trophy)
